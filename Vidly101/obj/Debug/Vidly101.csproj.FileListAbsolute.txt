@@ -73,3 +73,10 @@ H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.AddIs
 H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.AddMembershipType.resources
 H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.PopulateMembershipType.resources
 H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.ApplyAnnotationsToCustomerName.resources
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.AddNameToMembershipType.resources
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.UpdateNameofMembershipType.resources
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.BirthDateToCustomers.resources
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.AlterMovieandAddClassGenre.resources
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.AddClassMovieandGenre.resources
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.PopulateGenre.resources
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.PopulateMovies.resources

@@ -195,9 +195,38 @@
     <Compile Include="Migrations\201706142344453_ApplyAnnotationsToCustomerName.Designer.cs">
       <DependentUpon>201706142344453_ApplyAnnotationsToCustomerName.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201706172349093_AddNameToMembershipType.cs" />
+    <Compile Include="Migrations\201706172349093_AddNameToMembershipType.Designer.cs">
+      <DependentUpon>201706172349093_AddNameToMembershipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706172351161_UpdateNameofMembershipType.cs" />
+    <Compile Include="Migrations\201706172351161_UpdateNameofMembershipType.Designer.cs">
+      <DependentUpon>201706172351161_UpdateNameofMembershipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706180036003_BirthDateToCustomers.cs" />
+    <Compile Include="Migrations\201706180036003_BirthDateToCustomers.Designer.cs">
+      <DependentUpon>201706180036003_BirthDateToCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706180214572_AlterMovieandAddClassGenre.cs" />
+    <Compile Include="Migrations\201706180214572_AlterMovieandAddClassGenre.Designer.cs">
+      <DependentUpon>201706180214572_AlterMovieandAddClassGenre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706180230595_AddClassMovieandGenre.cs" />
+    <Compile Include="Migrations\201706180230595_AddClassMovieandGenre.Designer.cs">
+      <DependentUpon>201706180230595_AddClassMovieandGenre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706180304366_PopulateGenre.cs" />
+    <Compile Include="Migrations\201706180304366_PopulateGenre.Designer.cs">
+      <DependentUpon>201706180304366_PopulateGenre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706180308326_PopulateMovies.cs" />
+    <Compile Include="Migrations\201706180308326_PopulateMovies.Designer.cs">
+      <DependentUpon>201706180308326_PopulateMovies.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MembershipType.cs" />
@@ -293,6 +322,27 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201706142344453_ApplyAnnotationsToCustomerName.resx">
       <DependentUpon>201706142344453_ApplyAnnotationsToCustomerName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706172349093_AddNameToMembershipType.resx">
+      <DependentUpon>201706172349093_AddNameToMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706172351161_UpdateNameofMembershipType.resx">
+      <DependentUpon>201706172351161_UpdateNameofMembershipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706180036003_BirthDateToCustomers.resx">
+      <DependentUpon>201706180036003_BirthDateToCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706180214572_AlterMovieandAddClassGenre.resx">
+      <DependentUpon>201706180214572_AlterMovieandAddClassGenre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706180230595_AddClassMovieandGenre.resx">
+      <DependentUpon>201706180230595_AddClassMovieandGenre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706180304366_PopulateGenre.resx">
+      <DependentUpon>201706180304366_PopulateGenre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706180308326_PopulateMovies.resx">
+      <DependentUpon>201706180308326_PopulateMovies.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
