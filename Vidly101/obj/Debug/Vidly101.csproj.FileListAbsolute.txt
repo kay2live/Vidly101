@@ -80,3 +80,11 @@ H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.Alter
 H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.AddClassMovieandGenre.resources
 H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.PopulateGenre.resources
 H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.PopulateMovies.resources
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\System.Net.Http.Formatting.dll
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\System.Web.Http.dll
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\System.Web.Http.WebHost.dll
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\System.Net.Http.Formatting.xml
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\System.Web.Http.xml
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\System.Web.Http.WebHost.xml
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\AutoMapper.dll
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\AutoMapper.xml
