@@ -18,7 +18,8 @@ namespace Vidly101.Dtos
 
         public bool IsSubscribedToNewsLetter { get; set; }
 
-        public MembershipType MembershipType { get; set; }
+        //Need a diffrent Dto for MembershipTyp
+        public MembershipTypeDto MembershipType { get; set; }
 
         public byte MembershipTypeId { get; set; }
 
