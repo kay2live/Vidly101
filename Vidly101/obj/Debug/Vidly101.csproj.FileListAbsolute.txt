@@ -88,3 +88,5 @@ H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\System.Web.Http.xml
 H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\System.Web.Http.WebHost.xml
 H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\AutoMapper.dll
 H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\bin\AutoMapper.xml
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.SeedUsers.resources
+H:\ProjectDir\VS2015\Udemy\Vidly101\Vidly101\obj\Debug\Vidly101.Migrations.AddDrivingLicenseToApplicationUser.resources

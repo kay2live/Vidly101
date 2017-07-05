@@ -9,6 +9,7 @@ using Vidly101.ViewModels;
 
 namespace Vidly101.Controllers
 {
+   
     public class CustomersController : Controller
     {
 
@@ -86,6 +87,7 @@ namespace Vidly101.Controllers
         }
 
         // GET: Customers
+        
         public ViewResult Index()
         {
             //var customers = GetCustomers();
